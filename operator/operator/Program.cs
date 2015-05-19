@@ -12,6 +12,7 @@ namespace @operator
         {
             Console.WriteLine("hello world1!");
             Console.WriteLine("hello world2!");
+            Console.WriteLine("hello world3!");
         }
     }
 }
